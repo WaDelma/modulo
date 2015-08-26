@@ -1,0 +1,10 @@
+[package]
+name = "modulo"
+version = "0.1.0"
+authors = ["Wadelma <>"]
+description = "Simple modulo operation."
+repository = "https://github.com/WaDelma/modulo"
+documentation = "https://WaDelma.github.io/modulo/"
+readme = "README.md"
+keywords = [ "modulo" ]
+license = "MIT"
