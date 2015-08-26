@@ -1,6 +1,6 @@
 [package]
 name = "modulo"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Wadelma <>"]
 description = "Simple modulo operation."
 repository = "https://github.com/WaDelma/modulo"

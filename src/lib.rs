@@ -11,6 +11,7 @@ use std::ops::{Rem, Add};
 /// ```
 pub trait Mod<RHS=Self> {
     type Output;
+    #[inline]
     fn modulo(self, rhs: RHS) -> Self::Output;
 }
 
